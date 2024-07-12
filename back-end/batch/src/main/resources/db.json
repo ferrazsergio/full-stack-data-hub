@@ -1,0 +1,84 @@
+{
+    "Users": [
+      {
+        "id": 1,
+        "firstName": "Nitin",
+        "lastName": "Rana",
+        "email": "nitin.rana@gmail.com",
+        "mobile": "2345678901",
+        "salary": "25000"
+      },
+      {
+        "id": 2,
+        "firstName": "Rajat",
+        "lastName": "Singh",
+        "email": "rajat.singh1@gmail.com",
+        "mobile": "5637189302",
+        "salary": "30000"
+      },
+      {
+        "id": 3,
+        "firstName": "Rahul",
+        "lastName": "Singh",
+        "email": "rahul.singh1@gmail.com",
+        "mobile": "5557189302",
+        "salary": "40000"
+      },
+      {
+        "id": 4,
+        "firstName": "Akhil",
+        "lastName": "Verma",
+        "email": "akhil.verma2@gmail.com",
+        "mobile": "5690889302",
+        "salary": "20000"
+      },
+      {
+        "id": 5,
+        "firstName": "Mohan",
+        "lastName": "Ram",
+        "email": "mohan.ram1@gmail.com",
+        "mobile": "7637189302",
+        "salary": "60000"
+      },
+      {
+        "id": 6,
+        "firstName": "Sohan",
+        "lastName": "Rana",
+        "email": "sohan.rana@gmail.com",
+        "mobile": "3425167890",
+        "salary": "25000"
+      },
+      {
+        "id": 7,
+        "firstName": "Rajjev",
+        "lastName": "Singh",
+        "email": "rajeev.singh1@gmail.com",
+        "mobile": "5637189302",
+        "salary": "30000"
+      },
+      {
+        "id": 8,
+        "firstName": "Mukul",
+        "lastName": "Singh",
+        "email": "mukul.singh1@gmail.com",
+        "mobile": "5557189302",
+        "salary": "40000"
+      },
+      {
+        "id": 9,
+        "firstName": "Vivek",
+        "lastName": "Verma",
+        "email": "vivek.verma2@gmail.com",
+        "mobile": "5690889302",
+        "salary": "20000"
+      },
+      {
+        "id": 10,
+        "firstName": "Shubham",
+        "lastName": "Singh",
+        "email": "shubham.singh@gmail.com",
+        "mobile": "7637189502",
+        "salary": "60000"
+      }
+    ]
+  }
